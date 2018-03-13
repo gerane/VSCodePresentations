@@ -4,5 +4,5 @@ Register-EditorCommand `
     -ScriptBlock {
         param([Microsoft.PowerShell.EditorServices.Extensions.EditorContext]$context)
 
-        Open-EditorFile "$PSScriptRoot\EditorCommands\OpenPowerPoint.ps1"
+        Open-EditorFile "$PSScriptRoot\Demo1.OpenPowerPoint.ps1"
     }

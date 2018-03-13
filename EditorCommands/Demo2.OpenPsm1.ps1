@@ -4,5 +4,5 @@ Register-EditorCommand `
     -ScriptBlock {
         param([Microsoft.PowerShell.EditorServices.Extensions.EditorContext]$context)
 
-        Open-EditorFile "$PSScriptRoot\*.psm1"
+        Open-EditorFile "$PSScriptRoot\..\*.psm1"
     }
