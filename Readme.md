@@ -10,7 +10,7 @@ If I had seen Editor Commands when watching a Demo, I would have dropped what I 
 
 Editor Commands also can be embedded in modules. You can add a simple piece of code to check for the $PSEditor variable and then dot source your Editor Commands if the exist. You could also put these in your VSCode PowerShell Profile. This also could be used to make Demos and Presentations ditributable via PSGallery.
 
-![Demo](https://github.com/gerane/VSCodePresentations/blob/master/Images/Demo.gif)
+![Demo](https://raw.githubusercontent.com/gerane/VSCodePresentations/master/Images/Demo.gif)
 
 ### Access Editor Commands
 
