@@ -33,3 +33,7 @@ This shows how you can use the Helper Commands to prompt for choice. It gives yo
 ### Demo 6
 
 This is another simple example showing how you can run commands and have the output go to the terminal.
+
+## Notes
+
+I have also been throwing around the idea of making a Plaster Template for VSCode Presentations. There are several ways you could do this, and I would need to play around with it some. I would love some feedback on this, or maybe this could be something the community could work on together.
