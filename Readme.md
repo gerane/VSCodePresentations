@@ -10,11 +10,11 @@ If I had seen Editor Commands when watching a Demo, I would have dropped what I 
 
 Editor Commands also can be embedded in modules. You can add a simple piece of code to check for the $PSEditor variable and then dot source your Editor Commands if the exist. You could also put these in your VSCode PowerShell Profile. This also could be used to make Demos and Presentations ditributable via PSGallery.
 
-![Demo](/images/Demo.gif)
+![Demo](https://github.com/gerane/VSCodePresentations/blob/master/Images/Demo.gif)
 
 ### Access Editor Commands
 
-I set the Keyboard Shortcut *Show Additional Commands from PowerShell Modules* to *Alt+P*.
+I set the Keyboard Shortcut **Show Additional Commands from PowerShell Modules** to **Alt+P**.
 
 ### Demo 1
 
@@ -30,11 +30,11 @@ This Demo opens the Helpers.ps1 file to show the helper commands for taking inpu
 
 ### Demo 4
 
-This is just a quick example of using the *Open-EditorFile* to open a file in the Editor.
+This is just a quick example of using the **Open-EditorFile** to open a file in the Editor.
 
 ### Demo 5
 
-This shows how you can use the Helper Commands to prompt for choice. It gives you a selection of your PowerShell Profiles and will open the one you select using the *$PSEditor.Workspace.OpenFile()* Method.
+This shows how you can use the Helper Commands to prompt for choice. It gives you a selection of your PowerShell Profiles and will open the one you select using the **$PSEditor.Workspace.OpenFile()** Method.
 
 ### Demo 6
 
